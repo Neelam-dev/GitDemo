@@ -26,5 +26,11 @@ public class Demo1 {
 	{
 		System.out.println("Test4");
 	}
+	
+	@Test
+	public void Test5()
+	{
+		System.out.println("Test5");
+	}
 
 }
